@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "2",
+  "title": "`RewardsController` Emission Manager Can Authorize Users to Claim on Behalf of the `AaveV3YieldSource` Contract and Siphon Yield",
+  "issueId": 70,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/70"
+}
