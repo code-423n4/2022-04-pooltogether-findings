@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "3",
+  "title": "Pool has free access to all funds without using the redeem method",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/87"
+}
