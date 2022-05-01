@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Owner can steal rewards",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/72"
+}
