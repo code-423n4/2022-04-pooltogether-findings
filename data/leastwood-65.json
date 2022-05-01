@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "leastwood",
+  "address": "0x28235de0121700a462b5098cff7d3615b050551f",
+  "risk": "2",
+  "title": "Owner of the `PoolAddressesProviderRegistry` Contract Can Update the Pool Address and Effectively Lock Deposited Funds by Preventing All Withdrawals",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/65"
+}
