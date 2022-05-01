@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M1] `supplyTokenTo()` may fail when Aave Pool address changed",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/45"
+}
