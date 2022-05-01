@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "CertoraInc",
+  "address": "0x4bCc7c54E4e8E9a563B92272A51bBFb5d233de32",
+  "risk": "3",
+  "title": "Fee-on-transfer tokens will mess up the internal accounting of the contract",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/46"
+}
