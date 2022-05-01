@@ -1,0 +1,9 @@
+{
+  "contest": 114,
+  "handle": "WatchPug",
+  "address": "0x192bdd30d272aabc2b1c3c719c518f0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H1] A malicious early user/attacker can manipulate the vault's pricePerShare to take an unfair share of future users' deposits",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-04-pooltogether-findings/issues/44"
+}
