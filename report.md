@@ -1,3 +1,11 @@
+---
+sponsor: "PoolTogether"
+slug: "2022-04-pooltogether"
+date: "2022-06-23"
+title: "PoolTogether Aave v3 contest"
+findings: "https://github.com/code-423n4/2022-04-pooltogether-findings/issues"
+contest: 114
+---
 
 # Overview
 
